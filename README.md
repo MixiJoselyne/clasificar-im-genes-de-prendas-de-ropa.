@@ -126,4 +126,5 @@ El código que se muestra es para visualizar algunas de las imágenes de prueba 
 
 El código utiliza la función "subplots" para crear una matriz de gráficos de 4x4 y la función "flatten" para aplanar la matriz de ejes en un arreglo unidimensional. Luego, utiliza un bucle para recorrer los primeros 16 elementos del conjunto de prueba y muestra cada imagen junto con la etiqueta predicha por el modelo utilizando la función "imshow" y el método "set_title" del objeto de gráfico correspondiente. La función "get" del diccionario se utiliza para obtener la etiqueta de prenda correspondiente a la etiqueta de clase predicha por el modelo.
 
-![prendas]( C:/Users/Pc/Descargas/prendas.png) 
+![prendas](https://user-images.githubusercontent.com/107889451/222944477-5a3dbd1b-e360-4945-b557-b2c3147243bf.JPG)
+
